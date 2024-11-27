@@ -1,0 +1,7 @@
+br\com\dev2web\repository\testeTreino.class
+br\com\dev2web\Dev2webApplication.class
+br\com\dev2web\service\TreinoServiceImpl.class
+br\com\dev2web\model\Excercicio.class
+br\com\dev2web\repository\TreinoRepository.class
+br\com\dev2web\model\StatusTreino.class
+br\com\dev2web\controler\Treinocontroler.class
